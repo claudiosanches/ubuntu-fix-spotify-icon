@@ -9,7 +9,7 @@ This script is a fork of [faviouz/fix-spotify-icon](https://github.com/faviouz/f
 Run this one-liner to automagically install and run the script:
 
 ```bash
-wget https://raw.githubusercontent.com/claudiosmweb/ubuntu-fix-spotify-icon/master/setup.sh -O - | sh
+wget http://git.io/vW2fX -O - | sh
 ```
 
 If you don't trust me you can inspect the source of the installation script and install it yourself ;)
