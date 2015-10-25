@@ -19,7 +19,7 @@ exit;
 fi
 
 if [[ "$1" != "ambiance" && "$1" != "radiance" ]]; then cat <<HELP
-  Selected theme does not exist, use one of the following themes:
+  Selected theme doesn't exist, use one of the following themes:
    - ambiance
    - radiance
 HELP
